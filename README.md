@@ -15,9 +15,9 @@ plateau_var = standard deviation of the scores measured over the plateau
 Arguments:
 plateau_date_estimation(dates,scores,score_diff)
 
-dates = N x 1 array of dates
+dates = N x 1 array of dates (arbitrary)
 
-scores = N x 1 array of scores
+scores = N x 1 array of scores (arbitrary)
 
 score_diff = % criteria within the plateau score
 
