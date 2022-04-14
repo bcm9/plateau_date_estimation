@@ -16,7 +16,7 @@ function [plateau_date plateau_score plateau_var] = plateau_date_estimation(date
 %% Build logistic regression model
 % pre-processing: remove NaN scores
 idx=find(~isnan(scores));
-% remove rows where NaNs are present, line must go after unique y (index with nans used for y)
+% remove rows where NaNs are present
 scores=scores(idx);
 dates=dates(idx);
 
