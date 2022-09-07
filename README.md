@@ -2,7 +2,7 @@
 
 plateau_date_estimation
 
-MATLAB function to estimate point in a time series analysis using logistic regression and interpolation. Applied to estimate the date when (speech recognition) scores measured over time "plateau". Main code: plateau_date_estimation.m
+MATLAB function to estimate point in a time series analysis using logistic function and interpolation. Applied to estimate the date when (speech recognition) scores measured over time "plateau". Main code: plateau_date_estimation.m
 
 Returns:
 
