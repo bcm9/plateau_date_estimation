@@ -5,9 +5,7 @@
 ### Main code: plateau_date_estimation.m returns:
 
 * plateau_score = upper horizontal asymptote 
-
 * plateau_date = first date within score_diff% of the plateau score on the function.
-
 * plateau_var = standard deviation of the scores measured over the plateau
 
 ### Arguments for plateau_date_estimation(dates,scores,score_diff)
