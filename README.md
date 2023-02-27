@@ -17,4 +17,4 @@
 ### Example
 [plateau_date plateau_score plateau_var] = plateau_date_estimation([0.5 1 2 4 6 12 18 36 48 60]',[10 8 20 18 50 75 85 82 88 86]',5)
 
-![](figures/plateau_date_estimation_fig.png) 
+![](plateau_date_estimation_fig.png) 
