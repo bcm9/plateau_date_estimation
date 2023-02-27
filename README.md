@@ -2,9 +2,7 @@
 
 ### MATLAB function to fit logistic function and estimate xpoint. Applied to estimate the date when (speech recognition) scores measured over time "plateau". 
 
-### Main code: plateau_date_estimation.m
-
-### Returns:
+### Main code: plateau_date_estimation.m returns:
 
 * plateau_score = upper horizontal asymptote 
 
